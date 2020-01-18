@@ -1,0 +1,24 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon Homework Assignment",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PelicanSkeleton/Bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PelicanSkeleton/Bamazon/issues"
+  },
+  "homepage": "https://github.com/PelicanSkeleton/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^7.0.3",
+    "mysql": "^2.17.1"
+  }
+}
