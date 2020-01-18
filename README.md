@@ -39,3 +39,4 @@ Bamazon Homework Assignment
    * Once the update goes through, show the customer the total cost of their purchase.
 
 - - -
+![bamazon screenshot](./bamazon.jpg)
